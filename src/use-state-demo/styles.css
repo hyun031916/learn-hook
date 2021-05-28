@@ -1,0 +1,19 @@
+.light {
+    background: #fff;
+}
+​
+.dark {
+    background: #000;
+}
+​
+.theme-div {
+    height: 100vh;
+}
+​
+.theme-div button {
+    width: 10vw;
+    height: 10vw;
+    font-size: 5vw;
+    background: transparent;
+    border: 0;
+}
